@@ -7,7 +7,7 @@ username: admin, password: admin123
 User: 
 username: user, password: user123
 
-URL: http://localhost:5173/login
+URL: http://localhost:5173
 
 Install Dependence:
 npm install (Most important)
