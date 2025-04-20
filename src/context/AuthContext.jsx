@@ -116,7 +116,7 @@ export const AuthProvider = ({ children }) => {
       user: null,
       isAuthenticated: false
     })
-    navigate('/login')
+    navigate('/')
   }
 
   return (
