@@ -13,7 +13,7 @@ function App() {
         <Navbar />
         <div className="container mt-4">
           <Routes>
-            <Route path="/login" element={<Login />} />
+            <Route path="/" element={<Login />} />
             <Route
               path="/admin"
               element={
